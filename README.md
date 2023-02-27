@@ -20,6 +20,7 @@ The project is located within the `WorldMarkPosition/SetPosition` Unity scene.
 
 ## Specified functions
 You can find all code in folder script 
+
 1.align the virtual scene with the physical world Microsofts World locking tools framework is used. see above link World Locking Tools Samples.
 
 2.Placement and visualization of points (see 'CreaterPoint.cs').
